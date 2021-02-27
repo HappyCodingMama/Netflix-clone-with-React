@@ -9,7 +9,7 @@
   padding: 20px;
 }
 
-.orw__poster::-webkit-scrollbar {
+.row__poster::-webkit-scrollbar {
   display: none;
 }
 
@@ -25,7 +25,7 @@
   transform: scale(1.08);
 }
 
-.row__pposterLarge {
+.row__posterLarge {
   max-height: 250px;
 }
 
